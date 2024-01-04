@@ -1,0 +1,220 @@
+2023-12-28 13:23:39,053 INFO [main] o.r.r.Main [Main.java:27] -- Application Started Main
+2023-12-28 13:26:52,169 INFO [main] o.r.r.Main [Main.java:27] -- Application Started Main
+2023-12-28 13:27:45,222 INFO [main] o.r.r.Main [Main.java:28] -- Application Started Main
+2023-12-28 13:36:44,085 INFO [main] o.r.r.Main [Main.java:28] -- Application Started Main
+2023-12-28 13:37:04,361 INFO [main] o.r.r.Main [Main.java:28] -- Application Started Main
+2023-12-28 13:38:50,793 INFO [main] o.r.r.Main [Main.java:28] -- Application Started Main
+2023-12-28 13:39:50,708 INFO [main] o.r.r.Main [Main.java:28] -- Application Started Main
+2023-12-28 13:40:33,090 INFO [main] o.r.r.Main [Main.java:28] -- Application Started Main
+2023-12-28 13:42:04,092 INFO [main] o.r.r.Main [Main.java:28] -- Application Started Main
+2023-12-28 13:44:14,672 INFO [main] o.r.r.Main [Main.java:28] -- Application Started Main
+2023-12-28 13:46:30,650 INFO [main] o.r.r.Main [Main.java:28] -- Application Started Main
+2023-12-28 13:50:24,422 INFO [main] o.r.r.Main [Main.java:28] -- Application Started Main
+2023-12-28 13:53:26,135 INFO [main] o.r.r.Main [Main.java:28] -- Application Started Main
+2023-12-28 14:00:58,392 INFO [main] o.r.r.Main [Main.java:23] -- Application Started Main
+2023-12-28 14:01:02,566 INFO [main] o.r.r.Main [Main.java:23] -- Application Started Main
+2023-12-28 14:01:08,255 ERROR [main] o.r.r.Main [Main.java:287] -- InputMismatchException occurred
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:947)
+	at java.base/java.util.Scanner.next(Scanner.java:1602)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2267)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2221)
+	at org.revature.revspeed.Main.main(Main.java:30)
+	at org.revature.revspeed.Main.main(Main.java:277)
+2023-12-28 14:01:08,259 INFO [main] o.r.r.Main [Main.java:23] -- Application Started Main
+2023-12-28 14:01:21,938 ERROR [main] o.r.r.Main [Main.java:222] -- NullPointerException occurred
+java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because the return value of "Model.User.getEmail()" is null
+	at DAO.CRUDDao.login(CRUDDao.java:68)
+	at Services.Login.login(Login.java:18)
+	at org.revature.revspeed.Main.main(Main.java:39)
+	at org.revature.revspeed.Main.main(Main.java:289)
+	at org.revature.revspeed.Main.main(Main.java:277)
+2023-12-28 14:01:21,938 INFO [main] o.r.r.Main [Main.java:23] -- Application Started Main
+2023-12-28 14:01:34,874 ERROR [main] o.r.r.Main [Main.java:222] -- NullPointerException occurred
+java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because the return value of "Model.User.getEmail()" is null
+	at DAO.CRUDDao.login(CRUDDao.java:68)
+	at Services.Login.login(Login.java:18)
+	at org.revature.revspeed.Main.main(Main.java:39)
+	at org.revature.revspeed.Main.main(Main.java:224)
+	at org.revature.revspeed.Main.main(Main.java:289)
+	at org.revature.revspeed.Main.main(Main.java:277)
+2023-12-28 14:01:34,875 INFO [main] o.r.r.Main [Main.java:23] -- Application Started Main
+2023-12-28 14:02:01,211 ERROR [main] o.r.r.Main [Main.java:211] -- InputMismatchException occurred
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:947)
+	at java.base/java.util.Scanner.next(Scanner.java:1602)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2267)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2221)
+	at org.revature.revspeed.Main.main(Main.java:75)
+	at org.revature.revspeed.Main.main(Main.java:224)
+	at org.revature.revspeed.Main.main(Main.java:224)
+	at org.revature.revspeed.Main.main(Main.java:289)
+	at org.revature.revspeed.Main.main(Main.java:277)
+2023-12-28 14:09:59,554 INFO [main] o.r.r.Main [Main.java:23] -- Application Started Main
+2023-12-28 14:11:17,627 ERROR [main] o.r.r.Main [Main.java:211] -- InputMismatchException occurred
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:947)
+	at java.base/java.util.Scanner.next(Scanner.java:1602)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2267)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2221)
+	at org.revature.revspeed.Main.main(Main.java:154)
+2023-12-28 14:11:32,249 ERROR [main] o.r.r.Main [Main.java:211] -- InputMismatchException occurred
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:947)
+	at java.base/java.util.Scanner.next(Scanner.java:1602)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2267)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2221)
+	at org.revature.revspeed.Main.main(Main.java:190)
+2023-12-28 14:23:26,380 INFO [main] o.r.r.Main [Main.java:23] -- Application Started Main
+2023-12-28 15:01:05,617 INFO [main] o.r.r.Main [Main.java:24] -- Application Started Main
+2023-12-28 15:01:43,945 INFO [main] o.r.r.Main [Main.java:24] -- Application Started Main
+2023-12-28 15:14:09,861 INFO [main] o.r.r.Main [Main.java:24] -- Application Started Main
+2023-12-28 15:15:01,445 INFO [main] o.r.r.Main [Main.java:24] -- Application Started Main
+2023-12-28 15:16:40,172 INFO [main] o.r.r.Main [Main.java:24] -- Application Started Main
+2023-12-28 15:39:32,062 INFO [main] o.r.r.Main [Main.java:24] -- Application Started Main
+2023-12-28 15:56:08,310 INFO [main] o.r.r.Main [Main.java:24] -- Application Started Main
+2023-12-28 15:57:21,554 ERROR [main] o.r.r.Main [Main.java:224] -- NullPointerException occurred
+java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because the return value of "Model.User.getEmail()" is null
+	at DAO.CRUDDao.login(CRUDDao.java:45)
+	at Services.Login.login(Login.java:18)
+	at org.revature.revspeed.Main.main(Main.java:40)
+2023-12-28 15:57:21,555 INFO [main] o.r.r.Main [Main.java:24] -- Application Started Main
+2023-12-28 16:19:00,153 INFO [main] o.r.r.Main [Main.java:24] -- Application Started Main
+2023-12-28 16:19:48,173 INFO [main] o.r.r.Main [Main.java:24] -- Application Started Main
+2023-12-28 20:48:22,037 ERROR [main] o.r.r.Main [Main.java:328] -- SQLException occurred
+com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:829)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:449)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:242)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:683)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230)
+	at DataBase.Databaseconnection.<init>(Databaseconnection.java:23)
+	at DataBase.Databaseconnection.access(Databaseconnection.java:36)
+	at DAO.CRUDDao.<init>(CRUDDao.java:19)
+	at Services.CRUDServices.<init>(CRUDServices.java:15)
+	at org.revature.revspeed.Main.main(Main.java:22)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:949)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:819)
+	... 10 common frames omitted
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:589)
+	at java.base/sun.nio.ch.Net.connect(Net.java:578)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:583)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:751)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:156)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 13 common frames omitted
+2023-12-28 20:49:45,656 ERROR [main] o.r.r.Main [Main.java:299] -- SQLException occurred
+com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:829)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:449)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:242)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:683)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230)
+	at DataBase.Databaseconnection.<init>(Databaseconnection.java:23)
+	at DataBase.Databaseconnection.access(Databaseconnection.java:36)
+	at DAO.CRUDDao.<init>(CRUDDao.java:19)
+	at Services.CRUDServices.<init>(CRUDServices.java:15)
+	at org.revature.revspeed.Main.main(Main.java:22)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:949)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:819)
+	... 10 common frames omitted
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:589)
+	at java.base/sun.nio.ch.Net.connect(Net.java:578)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:583)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:751)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:156)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 13 common frames omitted
+2023-12-28 20:51:21,735 INFO [main] o.r.r.Main [Main.java:24] -- Application Started Main
+2024-01-03 16:39:28,654 ERROR [main] o.r.r.Main [Main.java:299] -- SQLException occurred
+com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:829)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:449)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:242)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:683)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230)
+	at DataBase.Databaseconnection.<init>(Databaseconnection.java:23)
+	at DataBase.Databaseconnection.access(Databaseconnection.java:36)
+	at DAO.CRUDDao.<init>(CRUDDao.java:19)
+	at Services.CRUDServices.<init>(CRUDServices.java:15)
+	at org.revature.revspeed.Main.main(Main.java:22)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:949)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:819)
+	... 10 common frames omitted
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:589)
+	at java.base/sun.nio.ch.Net.connect(Net.java:578)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:583)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:751)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:156)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 13 common frames omitted
+2024-01-03 16:40:43,281 INFO [main] o.r.r.Main [Main.java:24] -- Application Started Main
+2024-01-03 16:43:03,927 ERROR [main] o.r.r.Main [Main.java:229] -- InputMismatchException occurred
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:947)
+	at java.base/java.util.Scanner.next(Scanner.java:1602)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2267)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2221)
+	at org.revature.revspeed.Main.main(Main.java:207)
+2024-01-03 16:44:12,049 INFO [main] o.r.r.Main [Main.java:24] -- Application Started Main
+2024-01-03 16:46:15,307 INFO [main] o.r.r.Main [Main.java:24] -- Application Started Main
